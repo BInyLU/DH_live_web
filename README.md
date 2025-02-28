@@ -1,6 +1,4 @@
-# Mobile and Web Real-time Live Streaming Digital Human! 
-# 实时直播数字人  [bilibili video](https://www.bilibili.com/video/BV1Ppv1eEEgj/?vd_source=53601feee498369e726af7dbc2dae349)
-# 所有设备实时运行！甚至是树莓派！ 
+
 ### News
 ## Fastest model released! More demos joins me through the contact information at the bottom!
  All checkpoint files are moved to [baiduNetDisk](https://pan.baidu.com/s/1jH3WrIAfwI3U5awtnt9KPQ?pwd=ynd7)
