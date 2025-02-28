@@ -5,10 +5,6 @@
 ## Training
 Details on the render model training can be found [here](https://github.com/kleinlee/DH_live/tree/master/train).
 Audio Model training Details can be found [here](https://github.com/kleinlee/DH_live/tree/master/train_audio).
-### Video Example
-
-
-https://github.com/user-attachments/assets/7e0b5bc2-067b-4048-9f88-961afed12478
 
 
 ## Overview
